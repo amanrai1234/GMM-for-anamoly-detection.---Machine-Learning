@@ -1,6 +1,9 @@
 # Project-5-Gaussian-Mixture-model-for-anamoly-detection.
 
 
+
+
+
 # Step1: 
 
 loaded the dataset using pandas and added the output 
@@ -46,6 +49,6 @@ components) after a certain point don't descend in the plot
 
 
 
-
+# Dataset was too big, I was not able to upload it to git. Please drop me an email at amanrai942@gmail.com, I could manage it to send it to you.
 
 
